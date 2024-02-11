@@ -3,7 +3,7 @@ Urkus
 Murat
 Haydar
 Aynur
-Turgut
-Aylin
-Hatice
-Levent
+Adem
+Vasi 
+Mikaoil
+Eylül
